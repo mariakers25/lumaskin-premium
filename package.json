@@ -1,0 +1,19 @@
+{
+  "name": "lumaskin-premium",
+  "version": "1.0.0",
+  "description": "LumaSkin Calming Repair Serum - Luxury Editorial Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y serve .",
+    "start": "npx -y serve .",
+    "build": "echo 'No build step required for static project'"
+  },
+  "keywords": [
+    "skincare",
+    "landing-page",
+    "editorial",
+    "minimalist"
+  ],
+  "author": "LumaSkin Cyprus",
+  "license": "MIT"
+}
